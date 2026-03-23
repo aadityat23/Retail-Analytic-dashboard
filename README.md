@@ -28,4 +28,5 @@ This project analyzes retail transaction data to uncover key business insights u
 - dashboard/ → Tableau dashboard
 
 ## Dashboard Preview
-(Add screenshot here)
+<img width="1076" height="791" alt="Screenshot (300)" src="https://github.com/user-attachments/assets/d17940a3-1735-4ad2-bfa4-4ac9ecadc93e" />
+
